@@ -86,10 +86,16 @@
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding GIF" width="500" height="300"/>
 </p>
 <div class="stats">
-      <h3>GitHub Stats:</h3>
-      <div>
-        <img src="https://github-readme-stats.vercel.app/api?username=pateldivy&show_icons=true&hide_border=true" alt="Patel Divy's GitHub Stats" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pateldivy&layout=compact&hide_border=true" alt="Top Languages" />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=pateldivy&hide_border=true" alt="GitHub Streak" />
-      </div>
-    </div>
+  <h3>GitHub Stats:</h3>
+  <div>
+    <!-- General GitHub Stats -->
+    <img src="https://github-readme-stats.vercel.app/api?username=divy042000&show_icons=true&hide_border=true" alt="Your GitHub Stats" />
+
+    <!-- Top Languages Used -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divy042000&layout=compact&hide_border=true" alt="Top Languages" />
+
+    <!-- GitHub Streaks -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=divy042000&hide_border=true" alt="GitHub Streak" />
+  </div>
+</div>
+
