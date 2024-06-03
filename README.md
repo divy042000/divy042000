@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently Working On 3D Resume Builder<br>Looking forward for Internships<br>LeetCode Lover<br>
+Hey I am Patel Divy, pursuing Bachelor Of Technology in Computer Science @ Ahmedabad University , I am a Full-Stack Developer , and a Finance Enthusiast....
 
 
 ## 🌐 Socials:
